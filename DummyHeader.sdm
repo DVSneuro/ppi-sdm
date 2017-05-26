@@ -1,0 +1,10 @@
+FileVersion:            1
+
+NrOfPredictors:         20
+NrOfDataPoints:         230
+IncludesConstant:       1
+FirstConfoundPredictor: 14
+
+128 128 128   204 177 154   100 109 153   114 57 109   244 231 73   78 38 46   252 96 23   204 177 154   100 109 153   114 57 109   244 231 73   78 38 46   252 96 23   200 200 200   200 200 200   200 200 200   200 200 200   200 200 200   200 200 200   255 255 255
+"Phys" "PPIAAProc" "PPIAAColorProc" "PPIMatch" "PPISAColorProc" "PPISAProc" "PPIAdd" "AAProc" "AAColorProc" "Match" "SAColorProc" "SAProc" "Add" "Translation BV-X [mm]" "Translation BV-Y [mm]" "Translation BV-Z [mm]" "Rotation BV-X [deg]" "Rotation BV-Y [deg]" "Rotation BV-Z [deg]" "Constant"
+ 
